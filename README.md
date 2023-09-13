@@ -12,7 +12,7 @@ Welcome to the Interactive Rectangle project! This is a simple web application t
 
 ## Demo
 
-You can experience the Interactive Rectangle in action [here](#https://jain-rithik.github.io/Interactive-Rectangle/).
+You can experience the Interactive Rectangle in action [here](https://jain-rithik.github.io/Interactive-Rectangle/).
 ![Interactive Rectangle GIF](./interactive-rectangle.gif)
 
 ## Description
